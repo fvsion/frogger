@@ -6,6 +6,7 @@
 # Twitter = @commonexploits
 # 09/2016
 # Tested on Kali/2 with Cisco devices - it can be used over SSH
+# Code was forked by @fvsion as no updates had been made in 8 years and code needed maintenance
 
 # User configuration Settings
 TAGSEC="30" #change this value for the number of seconds to sniff for 802.1Q/ISL tagged packets
